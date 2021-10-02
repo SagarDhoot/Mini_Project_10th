@@ -1,1 +1,1 @@
-# Mini_Project_10th
+# Hardcoded Hotel Management Project in Java
